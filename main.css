@@ -1,0 +1,30 @@
+body{
+    background: -webkit-linear-gradient(right, #ff3300, #dacaca, #0e2188);
+    background: -moz-linear-gradient(right, #791d1d, #e9e6e6, #2c0f97);
+    background: -o-linear-gradient(right, #be1919, #fcefef, #000000);
+    background: linear-gradient(to right, #a81717, #ffffff, #000000);
+    color: #00FF00;
+    }
+    h1{
+    color: #5eb6bd;
+    text-shadow:0 0 2px aqua;
+    font-family: Comic Sans, arial;
+    }
+    h2{
+    color: #000fff;
+    text-shadow:0 0 10px rgb(29, 29, 131);
+    font-family: times new roman, arial;
+    }
+    h3{
+    color: #ffbbbb;
+    text-shadow:0 0 12px blue;
+    font-family: times new roman, arial;
+    }
+    p{
+    color: #00bbbb;
+    text-shadow:0 0 8px purple;
+    font-family: times new roman, arial;
+    }
+    a:visited{
+    color: rgb(138, 37, 121);
+    }
